@@ -1,3 +1,3 @@
 # bank-zbozowy-mvn
 
-![Build Status](https://github.com/karolnapierala/bank-zbozowy-mvn/actions/workflows/<nazwa-pliku-workflow>.yml/badge.svg)
+![example workflow](https://github.com/karolnapierala/bank-zbozowy-mvn/actions/workflows/ci.yml/badge.svg)
